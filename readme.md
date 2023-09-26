@@ -5,7 +5,7 @@
 
 
 **<h1>Tro-llo-lo project</h1>**
-[Demo](https://lightzone1981.github.io/Trello-project/)
+[Demo](https://eugene-lap.github.io/TRELLO_clone/)
 
 ![Splash screen](./docs/screen.jpg)
 
